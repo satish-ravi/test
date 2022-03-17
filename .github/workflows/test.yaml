@@ -13,4 +13,4 @@ jobs:
           echo "this is a test run"
           echo "gitsha: $GITHUB_SHA"
       - name: sleep
-        run: sleep 120s
+        run: sleep 1s
