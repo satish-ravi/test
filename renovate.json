@@ -2,7 +2,7 @@
   "extends": [
     "config:base"
   ],
-  "rangeStrategy": 'bump',
+  "rangeStrategy": "bump",
   "packageRules": [
     {
       "matchPackagePatterns": ["^@fiatconnect/"],
