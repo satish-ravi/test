@@ -2,7 +2,7 @@
   "extends": [
     "config:base"
   ],
-  "rangeStrategy": "replace",
+  "rangeStrategy": "update-lockfile",
   "packageRules": [
     {
       "matchPackagePatterns": ["^@fiatconnect/"],
