@@ -1,5 +1,12 @@
 {
   "extends": [
     "config:base"
+  ],
+  "packageRules": [
+    {
+      "matchPackagePatterns": ["^@fiatconnect/"],
+      "groupName": "fc",
+      "lockFileMaintenance": {"enabled": true}
+    }
   ]
 }
