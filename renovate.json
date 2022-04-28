@@ -2,12 +2,5 @@
   "extends": [
     "config:base"
   ],
-  "rangeStrategy": "bump",
-  "packageRules": [
-    {
-      "matchPackagePatterns": ["npm-example-package"],
-      "groupName": "test",
-      "lockFileMaintenance": {"enabled": true}
-    }
-  ]
+  "rangeStrategy": "bump"
 }
