@@ -8,6 +8,6 @@
   integrity sha512-JMyAgkHNufqbo9roDmUpzhZH3UMbhyuLYYMI9kE1qQTtQMPVlPz9zHbS2syFz2Ymdjl7wzgIijph+QckYwwP8A==
 
 npm-package-example@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/npm-package-example/-/npm-package-example-1.1.0.tgz#c615ece546975050eda22026afae3933d901cca4"
-  integrity sha1-xhXs5UaXUFDtoiAmr645M9kBzKQ=
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/npm-package-example/-/npm-package-example-1.1.2.tgz#745d9ef2febd7fe9d40ddc32bb3fe63311d369ef"
+  integrity sha1-dF2e8v69f+nUDdwyuz/mMxHTae8=
