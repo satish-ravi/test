@@ -5,8 +5,8 @@
   "rangeStrategy": "bump",
   "packageRules": [
     {
-      "matchPackagePatterns": ["^@fiatconnect/"],
-      "groupName": "fc",
+      "matchPackagePatterns": ["npm-example-package"],
+      "groupName": "test",
       "lockFileMaintenance": {"enabled": true}
     }
   ]
