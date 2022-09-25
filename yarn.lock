@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@fiatconnect/fiatconnect-types@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@fiatconnect/fiatconnect-types/-/fiatconnect-types-3.0.0.tgz#684b8f5c6beefb98db3a2a3c41066b976e099269"
-  integrity sha512-JMyAgkHNufqbo9roDmUpzhZH3UMbhyuLYYMI9kE1qQTtQMPVlPz9zHbS2syFz2Ymdjl7wzgIijph+QckYwwP8A==
+"@fiatconnect/fiatconnect-types@^7.0.0":
+  version "7.0.3"
+  resolved "https://registry.yarnpkg.com/@fiatconnect/fiatconnect-types/-/fiatconnect-types-7.0.3.tgz#1fa8b840fd21f56b861af985d50c2b32847f7242"
+  integrity sha512-q5OIHatju8jMjghMoC68u+ZkSPL8GYpZv+FgQvFVCBRxXMy3SoBlAU6PGO2Cm6OMJRZG299rBPkq07zObm0gWQ==
 
 npm-package-example@^1.1.0:
   version "1.1.0"

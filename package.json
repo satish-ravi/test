@@ -4,7 +4,7 @@
   "devDependencies": {
   },
   "dependencies": {
-    "@fiatconnect/fiatconnect-types": "^3.0.0",
+    "@fiatconnect/fiatconnect-types": "^7.0.0",
     "npm-package-example": "^1.1.0"
   }
 }
