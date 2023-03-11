@@ -3,11 +3,11 @@
 
 
 "@fiatconnect/fiatconnect-types@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@fiatconnect/fiatconnect-types/-/fiatconnect-types-3.0.0.tgz#684b8f5c6beefb98db3a2a3c41066b976e099269"
-  integrity sha512-JMyAgkHNufqbo9roDmUpzhZH3UMbhyuLYYMI9kE1qQTtQMPVlPz9zHbS2syFz2Ymdjl7wzgIijph+QckYwwP8A==
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/@fiatconnect/fiatconnect-types/-/fiatconnect-types-3.3.0.tgz#e186bb7023c611c8961255248d56dd18940151d0"
+  integrity sha512-splhIXCgU3kgMKLPsBNuHiOu66rUaOALsgoJgN6W3l1P5Ur3hxYk7nXwC8h6EOSys3gQfOnx3FPlPGgoyY1jsg==
 
 npm-package-example@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/npm-package-example/-/npm-package-example-1.1.0.tgz#c615ece546975050eda22026afae3933d901cca4"
-  integrity sha1-xhXs5UaXUFDtoiAmr645M9kBzKQ=
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/npm-package-example/-/npm-package-example-1.1.2.tgz#745d9ef2febd7fe9d40ddc32bb3fe63311d369ef"
+  integrity sha512-20XFOLlicO4g7u74nULc/YsQVrU6LzHaiO+TJ45LzU5FwWNj4r4kW0oCzMayi9JujDDOPWCLVHtrsYNWw//0IA==
