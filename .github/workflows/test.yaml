@@ -12,5 +12,8 @@ jobs:
         run: |
           echo "this is a test run"
           echo "gitsha: $GITHUB_SHA"
+          echo "git head ref: ${{ github.head_ref }}"
+          echo "git ref: ${{ github.ref }}"
+          echo "git ref name: ${{ github.ref_name }}"
       - name: sleep
         run: sleep 1s
