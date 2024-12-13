@@ -2,12 +2,19 @@
 # yarn lockfile v1
 
 
-"@fiatconnect/fiatconnect-types@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@fiatconnect/fiatconnect-types/-/fiatconnect-types-3.0.0.tgz#684b8f5c6beefb98db3a2a3c41066b976e099269"
-  integrity sha512-JMyAgkHNufqbo9roDmUpzhZH3UMbhyuLYYMI9kE1qQTtQMPVlPz9zHbS2syFz2Ymdjl7wzgIijph+QckYwwP8A==
+"@fiatconnect/fiatconnect-types@^13.0.0":
+  version "13.0.2"
+  resolved "https://registry.yarnpkg.com/@fiatconnect/fiatconnect-types/-/fiatconnect-types-13.0.2.tgz#8577c3856549dcab744d61aab8d045cd6885c1a1"
+  integrity sha512-QpqSpBKpde6l6aJdmx013YyjeGJXNUIaltNvEyKjt4yaSxtjBiCzzAy/EC3zemO+h+QUmUy7eP+87hmBtwAE5A==
+  dependencies:
+    zod "^3.21.4"
 
 npm-package-example@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/npm-package-example/-/npm-package-example-1.1.0.tgz#c615ece546975050eda22026afae3933d901cca4"
   integrity sha1-xhXs5UaXUFDtoiAmr645M9kBzKQ=
+
+zod@^3.21.4:
+  version "3.21.4"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-3.21.4.tgz#10882231d992519f0a10b5dd58a38c9dabbb64db"
+  integrity sha512-m46AKbrzKVzOzs/DZgVnG5H55N1sv1M8qZU3A8RIKbs3mrACDNeIOeilDymVb2HdmP8uwshOCF4uJ8uM9rCqJw==
